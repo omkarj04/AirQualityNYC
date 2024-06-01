@@ -1,0 +1,10 @@
+George Mason University, 
+AIT-614-007 Big Data Essentials
+Instructor: Prof. Dr. Eddy Zhang
+
+Group members: -Anushka Chougule, Oluwasegun Adegoke, Omkar Anil Jadhav, Zahra Hashmi Khamgaowala, Vishal Reddy Kota, Bolloju Vikram Datth.
+Group3
+
+Part1 contains data cleaning, transformation,ml model using python,and connecting to mongodb server
+Part2 contains ML model using pyspark using databricks
+Part3 contains health insights
